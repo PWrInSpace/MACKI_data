@@ -1,0 +1,216 @@
+(514891) PROCEDURE_TASK; INFO: Procedure task started
+(514964) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(514964) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(515064) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(515719) CLI; ERROR: Terminal doesn't support escape sequences
+(688620) PROCEDURE_TASK; INFO: Procedure task received notification
+(688620) PROCEDURE_TASK; INFO: Procedure loaded successfully
+(688620) PROCEDURE_TASK; INFO: Setting motors in starting point before starting procedure
+(690619) PROCEDURE_TASK; INFO: Motors set in starting point, starting procedure
+(690719) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(690720) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(690866) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(690940) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(691020) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(691100) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(691180) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(691182) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(691298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(691298) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(691299) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(691300) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(691379) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(691460) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(691462) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(691467) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(691467) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(691539) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(691620) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(691699) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(691779) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(691780) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(691860) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(691863) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(691867) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(691867) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(691940) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(692019) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(692100) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(692180) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(692260) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(692260) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(692391) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(692470) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(692550) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(692629) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(692710) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(692712) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(692825) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(692825) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(692826) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(692826) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(692900) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(692979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(693164) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(693327) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(693400) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(693480) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(693482) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(693605) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(693680) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(693870) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(693950) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(694029) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(694032) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(694146) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(694146) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(694147) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(694840) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(694841) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(694997) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(695040) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(695089) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(695140) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(695189) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(695230) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(696817) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(696820) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(698990) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(698990) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(698993) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(698997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(698997) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(698998) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(699070) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(699149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(699230) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(699233) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(699237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(699237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(699309) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(699390) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(699533) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(699534) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(699610) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(699689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(699770) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(699850) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(699852) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(699853) MECHANICAL_CONTROLLER; ERROR: Motor 1 is in overheat shutdown state
+(699854) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(699854) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(699930) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(700010) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(700010) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(700090) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(700170) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(700173) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(700177) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(700177) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(700249) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(700329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(700503) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(700580) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(700580) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(700715) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(700790) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(700925) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(701084) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(701160) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(701240) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(701240) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(701321) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(701401) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(701479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(701559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(701640) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(701801) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(701801) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(701880) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(701959) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(702091) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(702170) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(702250) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(702252) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(702257) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(702257) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(702329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(703030) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(703042) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(703079) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(703206) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(703250) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(703363) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(703410) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(703449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(704950) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(704952) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(704957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(704957) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(704964) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(707060) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(707060) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(707061) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(707062) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(707063) MECHANICAL_CONTROLLER; ERROR: Motor 1 is in overheat shutdown state
+(707064) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(707064) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(707139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(707220) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(707222) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(707335) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(707336) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(707336) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(707409) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(707490) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(707492) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(707493) MECHANICAL_CONTROLLER; ERROR: Motor 1 is in overheat shutdown state
+(707494) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(707494) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(707654) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(707655) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(707729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(707882) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(707960) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(708040) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(708119) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(708273) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(708273) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(708557) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(708630) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(708709) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(708789) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(708869) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(709060) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(709061) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(709139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(709286) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(709359) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(709439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(709625) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(709782) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(709783) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(709946) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(710021) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(710157) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(710230) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(710364) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(710439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(710440) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(710520) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(710599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(710679) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(710759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(710896) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(710969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(711670) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(711672) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(711709) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(711759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(711810) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(711860) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(711910) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(712060) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(713560) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(713571) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(714351) CMD_PROCEDURE; INFO: Sending stop notification to procedure task

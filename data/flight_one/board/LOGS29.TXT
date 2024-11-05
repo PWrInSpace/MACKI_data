@@ -1,0 +1,2392 @@
+(1720) PROCEDURE_TASK; INFO: Procedure task started
+(1721) MACUS; INFO: Sync received: 0, expected: 1
+(1721) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(1793) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(1793) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(1894) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(2669) CLI; ERROR: Terminal doesn't support escape sequences
+(2719) MACUS; INFO: Sync received: 0, expected: 1
+(2719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(3719) MACUS; INFO: Sync received: 0, expected: 1
+(3719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(4719) MACUS; INFO: Sync received: 0, expected: 1
+(4719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(5013) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5013) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5182) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5182) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5352) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5352) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5409) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5409) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5468) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5468) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5647) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5647) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5819) MACUS; INFO: Sync received: 0, expected: 1
+(5819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(5819) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5938) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5938) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6112) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6112) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6507) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6507) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6567) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6567) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6689) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6749) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6749) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6819) MACUS; INFO: Sync received: 0, expected: 1
+(6819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(6867) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6867) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7096) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7096) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7147) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7147) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7208) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7329) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7329) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7448) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7448) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7508) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7508) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7629) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7629) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7819) MACUS; INFO: Sync received: 0, expected: 1
+(7819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(7868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7868) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7931) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7931) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7988) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7988) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8342) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8342) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8640) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8640) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8819) MACUS; INFO: Sync received: 0, expected: 1
+(8819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(8878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8939) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8939) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9001) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9001) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9164) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9164) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9507) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9507) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9819) MACUS; INFO: Sync received: 0, expected: 1
+(9819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(9857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9977) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10157) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10157) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10331) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10331) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10497) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10497) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10619) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10619) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10819) MACUS; INFO: Sync received: 0, expected: 1
+(10819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(10960) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10960) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11133) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11133) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11302) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11302) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11358) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11358) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11538) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11538) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11712) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11712) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11881) MACUS; INFO: Sync received: 0, expected: 1
+(11881) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(11882) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11882) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12052) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12052) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12339) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12339) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12512) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12512) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12568) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12902) MACUS; INFO: Sync received: 0, expected: 1
+(12902) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(12903) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12903) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13071) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13071) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13127) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13127) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13296) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13296) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13462) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13462) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13517) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13517) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13747) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13747) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13807) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13807) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13974) MACUS; INFO: Sync received: 0, expected: 1
+(13975) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13975) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13976) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(14039) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14212) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14212) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14443) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14443) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14499) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14499) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14852) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14852) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15081) MACUS; INFO: Sync received: 0, expected: 1
+(15081) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(15082) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15082) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15252) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15252) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15537) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15537) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15717) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15837) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15837) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15899) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15899) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15958) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16018) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16079) MACUS; INFO: Sync received: 0, expected: 1
+(16080) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(16250) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16250) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16307) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16307) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16474) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16474) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16527) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16527) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16647) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16647) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16821) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16821) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16877) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16877) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16937) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16937) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16997) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17079) MACUS; INFO: Sync received: 0, expected: 1
+(17079) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(17118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17179) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17179) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17412) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17412) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17582) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17582) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17751) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17751) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17982) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17982) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18079) MACUS; INFO: Sync received: 0, expected: 1
+(18079) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(18210) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18211) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18327) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18327) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18390) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18390) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18448) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18509) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18568) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18792) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18793) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19015) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19015) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19067) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19067) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19079) MACUS; INFO: Sync received: 0, expected: 1
+(19079) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(19242) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19242) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19575) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19575) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19687) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19687) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19917) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19917) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19977) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20147) MACUS; INFO: Sync received: 0, expected: 1
+(20148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20148) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20149) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(20208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20208) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20381) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20381) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20438) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20438) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20498) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20498) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20792) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20792) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20962) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20962) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21019) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21019) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21079) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21079) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21149) MACUS; INFO: Sync received: 0, expected: 1
+(21149) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(21307) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21307) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21369) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21369) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21542) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21543) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21599) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21599) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21766) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21766) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21828) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21828) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21996) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21996) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22047) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22047) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22149) MACUS; INFO: Sync received: 0, expected: 1
+(22149) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(22279) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22279) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22566) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22566) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22617) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22617) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22678) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22678) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22911) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22911) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23075) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23075) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23137) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23137) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23149) MACUS; INFO: Sync received: 0, expected: 1
+(23149) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(23199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23199) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23432) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23432) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23603) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23603) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23833) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23833) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23889) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23889) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23949) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23949) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24008) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24008) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24181) MACUS; INFO: Sync received: 0, expected: 1
+(24182) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24182) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24183) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(24241) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24241) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24413) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24413) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24469) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24469) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24634) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24634) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24794) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24794) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24957) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25018) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25186) MACUS; INFO: Sync received: 0, expected: 1
+(25187) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(25187) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25187) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25248) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25248) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25417) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25417) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25477) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25477) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25538) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25538) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25599) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25599) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25659) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25659) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25837) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25837) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25897) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25897) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26128) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26128) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26179) MACUS; INFO: Sync received: 0, expected: 1
+(26301) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(26302) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26303) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26358) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26358) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26478) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26652) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26652) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26822) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26822) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26992) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26992) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27050) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27050) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27110) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27110) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27394) MACUS; INFO: Sync received: 0, expected: 1
+(27394) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(27395) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27395) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27457) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27457) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27517) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27517) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27931) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27931) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28095) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28095) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28267) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28267) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28435) MACUS; INFO: Sync received: 0, expected: 1
+(28435) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(28436) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28436) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28487) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28487) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28549) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28777) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28777) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28946) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28946) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29008) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29008) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29068) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29068) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29128) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29128) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29302) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29302) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29358) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29358) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29429) MACUS; INFO: Sync received: 0, expected: 1
+(29429) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(29479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29538) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29539) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29598) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29598) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29833) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29833) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30002) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30002) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30172) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30172) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30501) MACUS; INFO: Sync received: 0, expected: 1
+(30501) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(30502) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30502) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30557) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30557) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30617) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30617) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30791) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30791) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31016) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31016) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31247) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31247) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31369) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31369) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31428) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31428) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31596) MACUS; INFO: Sync received: 0, expected: 1
+(31596) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(31597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31659) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31659) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31827) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31827) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31948) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31948) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32122) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32122) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32287) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32288) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32348) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32348) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32408) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32408) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32581) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32582) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32589) MACUS; INFO: Sync received: 0, expected: 1
+(32589) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(32752) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32752) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32809) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32809) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32982) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32982) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33212) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33212) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33270) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33270) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33437) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33437) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33609) MACUS; INFO: Sync received: 0, expected: 1
+(33609) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(33611) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33611) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33668) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33668) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33952) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33952) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34008) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34008) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34069) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34069) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34357) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34357) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34478) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34538) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34538) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34708) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34708) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34707) MACUS; INFO: Sync received: 0, expected: 1
+(34709) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(34769) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34769) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34940) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34940) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34998) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35226) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35226) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35279) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35709) MACUS; INFO: Sync received: 0, expected: 1
+(35709) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(35737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35972) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35973) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36203) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36203) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36492) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36493) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36550) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36550) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36722) MACUS; INFO: Sync received: 0, expected: 1
+(36722) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36722) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36722) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(36778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36839) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36839) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36899) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37072) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37072) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37127) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37127) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37187) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37187) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37248) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37248) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37368) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37369) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37427) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37427) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37487) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37487) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37548) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37610) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37610) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37668) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37668) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37841) MACUS; INFO: Sync received: 0, expected: 1
+(37841) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(37842) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37842) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38005) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38005) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38057) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38057) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38177) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38177) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38345) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38345) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38459) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38519) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38864) MACUS; INFO: Sync received: 0, expected: 1
+(38864) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(38865) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38865) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38929) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38929) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39096) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39096) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39159) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39159) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39399) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39399) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39572) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39572) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39802) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39802) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39971) MACUS; INFO: Sync received: 0, expected: 1
+(39972) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39972) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39973) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(40028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40201) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40201) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40491) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40491) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40607) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40607) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40668) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40668) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40788) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40788) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40957) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40969) MACUS; INFO: Sync received: 0, expected: 1
+(40969) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(41017) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41017) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41191) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41191) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41247) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41247) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41307) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41307) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41369) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41369) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41428) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41428) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41489) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41489) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41657) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41779) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41779) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41898) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42066) MACUS; INFO: Sync received: 0, expected: 1
+(42066) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(42067) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42067) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42359) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42359) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42532) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42532) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42589) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42589) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42761) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42761) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42991) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42992) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43160) MACUS; INFO: Sync received: 0, expected: 1
+(43160) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(43161) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43161) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43509) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43567) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43567) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43792) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43792) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43907) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43907) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44030) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44030) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44199) MACUS; INFO: Sync received: 0, expected: 1
+(44199) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(44200) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44200) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44362) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44362) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44417) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44417) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44477) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44477) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44642) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44642) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44819) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44939) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44939) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44997) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45057) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45057) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45179) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45199) MACUS; INFO: Sync received: 0, expected: 1
+(45199) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(45353) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45353) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45409) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45409) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46051) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46051) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46199) MACUS; INFO: Sync received: 0, expected: 1
+(46199) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(46228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46399) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46399) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46519) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46580) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46581) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46639) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46640) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46867) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46867) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47096) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47096) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47268) MACUS; INFO: Sync received: 0, expected: 1
+(47268) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(47269) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47269) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47327) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47327) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47495) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47495) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47607) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47607) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47667) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47667) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47789) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47789) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47849) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47849) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48133) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48133) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48187) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48187) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48247) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48247) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48259) MACUS; INFO: Sync received: 0, expected: 1
+(48259) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(48415) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48415) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48581) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48581) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48752) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48753) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48869) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49104) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49105) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49271) MACUS; INFO: Sync received: 0, expected: 1
+(49272) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49272) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49272) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(49328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49560) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49560) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49722) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49722) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49777) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49777) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49837) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49837) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49898) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49958) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50019) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50250) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50250) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50269) MACUS; INFO: Sync received: 0, expected: 1
+(50269) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(50417) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50417) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50647) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50647) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50819) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50987) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50987) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51169) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51169) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51342) MACUS; INFO: Sync received: 0, expected: 1
+(51342) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51342) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51343) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(51512) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51512) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51568) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51983) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51983) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52150) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52150) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52208) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52439) MACUS; INFO: Sync received: 0, expected: 1
+(52439) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(52440) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52440) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52498) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52498) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52557) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52557) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52619) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52619) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52739) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52739) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52910) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52910) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52967) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52967) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53136) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53136) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53199) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53319) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53319) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53378) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53378) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53438) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53438) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53439) MACUS; INFO: Sync received: 0, expected: 1
+(53439) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(53499) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53499) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53559) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53559) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53848) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53848) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54014) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54014) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54068) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54068) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54239) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54239) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54439) MACUS; INFO: Sync received: 0, expected: 1
+(54439) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(54576) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54576) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54638) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54638) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54759) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54759) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54821) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54821) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54938) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54938) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54998) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55233) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55233) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55288) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55288) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55460) MACUS; INFO: Sync received: 0, expected: 1
+(55460) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(55460) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55460) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55692) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55692) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55862) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55862) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56087) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56087) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56147) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56147) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56209) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56329) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56329) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56387) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56387) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56561) MACUS; INFO: Sync received: 0, expected: 1
+(56561) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(56562) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56562) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56619) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56619) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56848) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56848) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57014) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57014) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57068) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57068) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57242) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57243) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57299) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57299) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57467) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57467) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57559) MACUS; INFO: Sync received: 0, expected: 1
+(57559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(57589) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57589) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57649) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57649) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57710) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57710) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57884) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57884) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57938) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57938) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57998) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58291) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58291) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58462) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58462) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58559) MACUS; INFO: Sync received: 0, expected: 1
+(58559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(58578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58638) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58638) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58872) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58872) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58988) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58988) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59049) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59049) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59223) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59223) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59279) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59279) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59340) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59340) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59559) MACUS; INFO: Sync received: 0, expected: 1
+(59559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(59577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59640) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59640) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59877) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59877) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59939) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59939) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59999) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59999) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60172) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60172) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60517) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60517) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60559) MACUS; INFO: Sync received: 0, expected: 1
+(60559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(60685) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60685) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60858) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60858) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60919) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60919) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60979) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60979) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61039) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61157) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61158) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61219) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61219) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61342) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61342) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61513) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61513) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61559) MACUS; INFO: Sync received: 0, expected: 1
+(61559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(61569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61570) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61742) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61742) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61799) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61799) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61974) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61974) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62202) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62202) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62259) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62432) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62432) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62489) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62489) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62548) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62559) MACUS; INFO: Sync received: 0, expected: 1
+(62559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(62608) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62608) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62668) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62668) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62789) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62789) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63018) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63079) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63079) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63139) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63139) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63307) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63474) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63474) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63559) MACUS; INFO: Sync received: 0, expected: 1
+(63559) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(63588) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63588) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63648) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63648) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63709) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63709) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63881) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63882) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63939) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63939) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63999) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63999) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64060) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64060) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64227) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64227) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64397) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64397) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64627) MACUS; INFO: Sync received: 0, expected: 1
+(64627) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(64628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64863) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64863) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64919) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64919) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64980) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64980) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65040) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65040) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65099) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65272) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65272) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65510) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65510) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65619) MACUS; INFO: Sync received: 0, expected: 1
+(65619) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(65631) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65631) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65803) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65803) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65972) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65972) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66302) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66302) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66359) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66359) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66619) MACUS; INFO: Sync received: 0, expected: 1
+(66619) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(66758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66938) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66938) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66999) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66999) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67165) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67165) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67219) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67219) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67281) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67281) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67339) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67339) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67510) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67510) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67786) MACUS; INFO: Sync received: 0, expected: 1
+(67786) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(67787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67849) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67849) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67911) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67911) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68029) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68029) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68088) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68088) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68149) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68149) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68323) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68324) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68779) MACUS; INFO: Sync received: 0, expected: 1
+(68779) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(69779) MACUS; INFO: Sync received: 0, expected: 1
+(69779) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(70825) MACUS; INFO: Sync received: 0, expected: 1
+(70825) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(71819) MACUS; INFO: Sync received: 0, expected: 1
+(71819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(72819) MACUS; INFO: Sync received: 0, expected: 1
+(72819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(73819) MACUS; INFO: Sync received: 0, expected: 1
+(73819) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(74942) MACUS; INFO: Sync received: 0, expected: 1
+(74942) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(76001) MACUS; INFO: Sync received: 0, expected: 1
+(76002) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(76999) MACUS; INFO: Sync received: 0, expected: 1
+(76999) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(77332) PROCEDURE_TASK; INFO: Procedure task received notification
+(77332) PROCEDURE_TASK; INFO: Procedure loaded successfully
+(77332) PROCEDURE_TASK; INFO: Setting motors in starting point before starting procedure
+(77999) MACUS; INFO: Sync received: 0, expected: 1
+(77999) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(79004) MACUS; INFO: Sync received: 0, expected: 1
+(79004) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(79449) PROCEDURE_TASK; INFO: Motors set in starting point, starting procedure
+(79612) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(79613) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(79689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(79835) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(79909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(79989) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(79999) MACUS; INFO: Sync received: 0, expected: 1
+(80000) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(80069) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(80149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(80150) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(80229) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(80232) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(80236) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80236) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80309) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(80389) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(80580) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(80659) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(80739) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(80739) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(80819) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(80899) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(80979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(80999) MACUS; INFO: Sync received: 0, expected: 1
+(80999) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(81059) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(81139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(81219) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(81219) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(81299) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(81301) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(81418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(81499) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(81579) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(81581) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(81693) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81693) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81693) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(81856) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(81857) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(81929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(82090) MACUS; INFO: Sync received: 0, expected: 1
+(82090) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(82091) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(82256) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(82329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(82409) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(82411) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(82524) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82525) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82525) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(82526) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(82599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(82679) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(82759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(82926) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(82999) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(83079) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(83089) MACUS; INFO: Sync received: 0, expected: 1
+(83089) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(83779) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(83781) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(83819) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(83869) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(83919) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(83977) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(84019) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(84059) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(84089) MACUS; INFO: Sync received: 0, expected: 1
+(84089) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(85089) MACUS; INFO: Sync received: 0, expected: 1
+(85089) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(85559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(85561) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(85676) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85676) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85679) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(86114) MACUS; INFO: Sync received: 0, expected: 1
+(86114) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(87109) MACUS; INFO: Sync received: 0, expected: 1
+(87109) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(87471) CMD_PROCEDURE; INFO: Sending stop notification to procedure task
+(87779) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(87779) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(87780) PROCEDURE_TASK; INFO: Stop notification received, stopping procedure
+(87783) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(87788) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87788) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(88166) MACUS; INFO: Sync received: 0, expected: 1
+(88166) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(89236) MACUS; INFO: Sync received: 0, expected: 1
+(89236) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(90320) MACUS; INFO: Sync received: 0, expected: 1
+(90320) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(91356) MACUS; INFO: Sync received: 0, expected: 1
+(91356) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(92349) MACUS; INFO: Sync received: 0, expected: 1
+(92349) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(93371) MACUS; INFO: Sync received: 0, expected: 1
+(93371) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(94369) MACUS; INFO: Sync received: 0, expected: 1
+(94369) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(95369) MACUS; INFO: Sync received: 0, expected: 1
+(95369) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(96369) MACUS; INFO: Sync received: 0, expected: 1
+(96369) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(97369) MACUS; INFO: Sync received: 0, expected: 1
+(97369) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(98525) MACUS; INFO: Sync received: 0, expected: 1
+(98525) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(99519) MACUS; INFO: Sync received: 0, expected: 1
+(99519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(100519) MACUS; INFO: Sync received: 0, expected: 1
+(100519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(101519) MACUS; INFO: Sync received: 0, expected: 1
+(101519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(102521) MACUS; INFO: Sync received: 0, expected: 1
+(102522) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(103543) MACUS; INFO: Sync received: 0, expected: 1
+(103545) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(104539) MACUS; INFO: Sync received: 0, expected: 1
+(104539) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(105539) MACUS; INFO: Sync received: 0, expected: 1
+(105539) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(106581) MACUS; INFO: Sync received: 0, expected: 1
+(106581) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(107579) MACUS; INFO: Sync received: 0, expected: 1
+(107579) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(108589) MACUS; INFO: Sync received: 0, expected: 1
+(108589) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(109604) MACUS; INFO: Sync received: 0, expected: 1
+(109605) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(110629) MACUS; INFO: Sync received: 0, expected: 1
+(110629) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(111735) MACUS; INFO: Sync received: 0, expected: 1
+(111735) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(112729) MACUS; INFO: Sync received: 0, expected: 1
+(112729) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(113884) MACUS; INFO: Sync received: 0, expected: 1
+(113885) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(114941) MACUS; INFO: Sync received: 0, expected: 1
+(114941) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(115995) MACUS; INFO: Sync received: 0, expected: 1
+(115995) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(116989) MACUS; INFO: Sync received: 0, expected: 1
+(116989) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(117989) MACUS; INFO: Sync received: 0, expected: 1
+(117989) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(118989) MACUS; INFO: Sync received: 0, expected: 1
+(118989) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(120039) MACUS; INFO: Sync received: 0, expected: 1
+(120039) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(121039) MACUS; INFO: Sync received: 0, expected: 1
+(121039) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(122066) MACUS; INFO: Sync received: 0, expected: 1
+(122066) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(123059) MACUS; INFO: Sync received: 0, expected: 1
+(123059) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(124059) MACUS; INFO: Sync received: 0, expected: 1
+(124059) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(125166) MACUS; INFO: Sync received: 0, expected: 1
+(125167) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(126159) MACUS; INFO: Sync received: 0, expected: 1
+(126159) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(127159) MACUS; INFO: Sync received: 0, expected: 1
+(127159) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(128159) MACUS; INFO: Sync received: 0, expected: 1
+(128159) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(129159) MACUS; INFO: Sync received: 0, expected: 1
+(129159) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(130243) MACUS; INFO: Sync received: 0, expected: 1
+(130243) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(131239) MACUS; INFO: Sync received: 0, expected: 1
+(131239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(132239) MACUS; INFO: Sync received: 0, expected: 1
+(132239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(133239) MACUS; INFO: Sync received: 0, expected: 1
+(133239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(134239) MACUS; INFO: Sync received: 0, expected: 1
+(134239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(135239) MACUS; INFO: Sync received: 0, expected: 1
+(135239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(136239) MACUS; INFO: Sync received: 0, expected: 1
+(136239) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(137330) MACUS; INFO: Sync received: 0, expected: 1
+(137330) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(138329) MACUS; INFO: Sync received: 0, expected: 1
+(138329) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(139329) MACUS; INFO: Sync received: 0, expected: 1
+(139329) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(140329) MACUS; INFO: Sync received: 0, expected: 1
+(140329) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(141329) MACUS; INFO: Sync received: 0, expected: 1
+(141329) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(142345) MACUS; INFO: Sync received: 0, expected: 1
+(142346) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(143435) MACUS; INFO: Sync received: 0, expected: 1
+(143435) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(144429) MACUS; INFO: Sync received: 0, expected: 1
+(144429) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(145429) MACUS; INFO: Sync received: 0, expected: 1
+(145429) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(146498) MACUS; INFO: Sync received: 0, expected: 1
+(146498) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(147489) MACUS; INFO: Sync received: 0, expected: 1
+(147489) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(148489) MACUS; INFO: Sync received: 0, expected: 1
+(148489) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(149489) MACUS; INFO: Sync received: 0, expected: 1
+(149490) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(150581) MACUS; INFO: Sync received: 0, expected: 1
+(150582) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(151615) MACUS; INFO: Sync received: 0, expected: 1
+(151616) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(152609) MACUS; INFO: Sync received: 0, expected: 1
+(152609) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(153711) MACUS; INFO: Sync received: 0, expected: 1
+(153711) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(154709) MACUS; INFO: Sync received: 0, expected: 1
+(154709) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(155751) MACUS; INFO: Sync received: 0, expected: 1
+(155752) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(156750) MACUS; INFO: Sync received: 0, expected: 1
+(156750) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(157749) MACUS; INFO: Sync received: 0, expected: 1
+(157749) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(158830) MACUS; INFO: Sync received: 0, expected: 1
+(158830) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(159864) MACUS; INFO: Sync received: 0, expected: 1
+(159864) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(160885) MACUS; INFO: Sync received: 0, expected: 1
+(160885) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(161879) MACUS; INFO: Sync received: 0, expected: 1
+(161879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(162879) MACUS; INFO: Sync received: 0, expected: 1
+(162879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(163976) MACUS; INFO: Sync received: 0, expected: 1
+(163976) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(165065) MACUS; INFO: Sync received: 0, expected: 1
+(165065) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(166102) MACUS; INFO: Sync received: 0, expected: 1
+(166103) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(167253) MACUS; INFO: Sync received: 0, expected: 1
+(167253) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(168292) MACUS; INFO: Sync received: 0, expected: 1
+(168292) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(169289) MACUS; INFO: Sync received: 0, expected: 1
+(169289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(170289) MACUS; INFO: Sync received: 0, expected: 1
+(170289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(171289) MACUS; INFO: Sync received: 0, expected: 1
+(171289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(172289) MACUS; INFO: Sync received: 0, expected: 1
+(172289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(173289) MACUS; INFO: Sync received: 0, expected: 1
+(173289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(173457) PROCEDURE_TASK; INFO: Procedure task received notification
+(173457) PROCEDURE_TASK; INFO: Procedure loaded successfully
+(173457) PROCEDURE_TASK; INFO: Setting motors in starting point before starting procedure
+(174289) MACUS; INFO: Sync received: 0, expected: 1
+(174289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(175289) MACUS; INFO: Sync received: 0, expected: 1
+(175289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(175525) PROCEDURE_TASK; INFO: Motors set in starting point, starting procedure
+(175686) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(175686) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(175759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(175839) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(175919) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(175999) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(176079) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(176159) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(176159) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(176239) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(176289) MACUS; INFO: Sync received: 0, expected: 1
+(176289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(176319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(176399) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(176479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(176559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(176724) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(176724) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(176799) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(176879) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(176959) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(177039) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(177042) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(177159) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(177159) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(177160) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(177239) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(177239) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(177289) MACUS; INFO: Sync received: 0, expected: 1
+(177289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(177319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(177450) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(177529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(177671) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(177749) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(177892) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(177892) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(177969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(178049) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(178052) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(178056) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(178056) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(178129) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(178209) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(178289) MACUS; INFO: Sync received: 0, expected: 1
+(178289) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(178292) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(178405) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(178405) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(178406) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(178479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(178479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(178559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(178639) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(178719) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(178799) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(178879) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(178959) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(179399) MACUS; INFO: Sync received: 0, expected: 1
+(179399) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(179659) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(179671) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(179710) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(179759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(179809) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(179859) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(179909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(179949) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(180399) MACUS; INFO: Sync received: 0, expected: 1
+(180399) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(181399) MACUS; INFO: Sync received: 0, expected: 1
+(181399) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(181545) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(181548) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(182491) MACUS; INFO: Sync received: 0, expected: 1
+(182491) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(183500) MACUS; INFO: Sync received: 0, expected: 1
+(183500) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(183649) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(183649) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(183650) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(183729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(183732) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(183736) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(183736) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(183809) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(183889) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(183969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(184049) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(184192) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(184192) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(184362) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(184439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(184499) MACUS; INFO: Sync received: 0, expected: 1
+(184499) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(184519) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(184599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(184679) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(184759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(184759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(184839) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(184919) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(184921) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(185033) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(185033) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(185034) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(185109) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(185189) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(185191) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(185303) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(185303) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(185303) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(185304) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(185472) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(185499) MACUS; INFO: Sync received: 0, expected: 1
+(185499) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(185549) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(185629) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(185782) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(185859) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(185993) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(185994) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(186069) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(186149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(186152) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(186156) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(186156) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(186229) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(186377) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(186449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(186499) MACUS; INFO: Sync received: 0, expected: 1
+(186499) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(186529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(186529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(186609) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(186612) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(186616) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(186616) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(186689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(186769) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(186962) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(187039) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(187119) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(187521) MACUS; INFO: Sync received: 0, expected: 1
+(187521) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(187819) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(187820) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(187859) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(187909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(188052) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(188099) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(188149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(188189) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(188519) MACUS; INFO: Sync received: 0, expected: 1
+(188519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(189521) MACUS; INFO: Sync received: 0, expected: 1
+(189521) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(189689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(189692) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(190519) MACUS; INFO: Sync received: 0, expected: 1
+(190519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(191571) MACUS; INFO: Sync received: 0, expected: 1
+(191571) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(191834) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(191835) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(191835) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(191909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1166
+(191989) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1333
+(192069) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1500
+(192149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1666
+(192271) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1833
+(192349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(192349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2000
+(192492) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2333
+(192569) MACUS; INFO: Sync received: 0, expected: 1
+(192569) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(192569) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 2666
+(192649) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3000
+(192652) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(192656) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(192656) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(192729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3333
+(192891) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 3666
+(192969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(192970) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4000
+(193121) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 4666
+(193199) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 5333
+(193279) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6000
+(193359) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 6666
+(193439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7333
+(193442) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(193446) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(193446) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(193519) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(193519) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 8000
+(193569) MACUS; INFO: Sync received: 0, expected: 1
+(193569) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(193599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 9333
+(193679) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10666
+(193682) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(193686) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(193686) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(193759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 12000
+(193917) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 13333
+(194076) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 14666
+(194234) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(194234) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 16000
+(194396) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 18666
+(194469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 21333
+(194549) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 24000
+(194569) MACUS; INFO: Sync received: 0, expected: 1
+(194569) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(194629) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26666
+(194709) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 29333
+(194789) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(194789) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 32000
+(194793) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(194797) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(194797) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(194869) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 37333
+(195026) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 42666
+(195195) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 48000
+(195269) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 53333
+(195349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58666
+(195429) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(195650) MACUS; INFO: Sync received: 0, expected: 1
+(195650) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(196129) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(196131) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 64000
+(196271) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 45000
+(196319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 26000
+(196369) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 7000
+(196419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -12000
+(196469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -31000
+(196509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -50000
+(196649) MACUS; INFO: Sync received: 0, expected: 1
+(196649) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(197716) MACUS; INFO: Sync received: 0, expected: 1
+(197716) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(198086) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(198089) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(198730) MACUS; INFO: Sync received: 0, expected: 1
+(198730) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(199229) MECHANICAL_CONTROLLER; WARN: Bumping motor 0 from limit switch retry count achieved
+(199521) CMD_PROCEDURE; INFO: Sending stop notification to procedure task
+(199729) MACUS; INFO: Sync received: 0, expected: 1
+(199729) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(200265) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(200265) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 1000
+(200265) PROCEDURE_TASK; INFO: Stop notification received, stopping procedure
+(200766) MACUS; INFO: Sync received: 0, expected: 1
+(200766) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(201759) MACUS; INFO: Sync received: 0, expected: 1
+(201759) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(202832) MACUS; INFO: Sync received: 0, expected: 1
+(202832) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(203903) MACUS; INFO: Sync received: 0, expected: 1
+(203903) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(204899) MACUS; INFO: Sync received: 0, expected: 1
+(204899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(205963) MACUS; INFO: Sync received: 0, expected: 1
+(205963) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(206985) MACUS; INFO: Sync received: 0, expected: 1
+(206985) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(207979) MACUS; INFO: Sync received: 0, expected: 1
+(207979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(208979) MACUS; INFO: Sync received: 0, expected: 1
+(208979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(209979) MACUS; INFO: Sync received: 0, expected: 1
+(209979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(210979) MACUS; INFO: Sync received: 0, expected: 1
+(210979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(211979) MACUS; INFO: Sync received: 0, expected: 1
+(211979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(212979) MACUS; INFO: Sync received: 0, expected: 1
+(212979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(214020) MACUS; INFO: Sync received: 0, expected: 1
+(214021) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(215019) MACUS; INFO: Sync received: 0, expected: 1
+(215019) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(216019) MACUS; INFO: Sync received: 0, expected: 1
+(216019) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(217019) MACUS; INFO: Sync received: 0, expected: 1
+(217140) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(218139) MACUS; INFO: Sync received: 0, expected: 1
+(218139) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(219139) MACUS; INFO: Sync received: 0, expected: 1
+(219139) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(220139) MACUS; INFO: Sync received: 0, expected: 1
+(220139) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(221139) MACUS; INFO: Sync received: 0, expected: 1
+(221139) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(222155) MACUS; INFO: Sync received: 0, expected: 1
+(222156) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(223220) MACUS; INFO: Sync received: 0, expected: 1
+(223220) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(224219) MACUS; INFO: Sync received: 0, expected: 1
+(224219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(225219) MACUS; INFO: Sync received: 0, expected: 1
+(225219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(226219) MACUS; INFO: Sync received: 0, expected: 1
+(226220) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(227219) MACUS; INFO: Sync received: 0, expected: 1
+(227219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(228219) MACUS; INFO: Sync received: 0, expected: 1
+(228219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(229219) MACUS; INFO: Sync received: 0, expected: 1
+(229219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(230219) MACUS; INFO: Sync received: 0, expected: 1
+(230219) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(231276) MACUS; INFO: Sync received: 0, expected: 1
+(231276) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(232341) MACUS; INFO: Sync received: 0, expected: 1
+(232341) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(233395) MACUS; INFO: Sync received: 0, expected: 1
+(233395) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(234389) MACUS; INFO: Sync received: 0, expected: 1
+(234389) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(235422) MACUS; INFO: Sync received: 0, expected: 1
+(235422) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(236419) MACUS; INFO: Sync received: 0, expected: 1
+(236419) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(237419) MACUS; INFO: Sync received: 0, expected: 1
+(237419) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(238419) MACUS; INFO: Sync received: 0, expected: 1
+(238419) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(239504) MACUS; INFO: Sync received: 0, expected: 1
+(239504) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(240521) MACUS; INFO: Sync received: 0, expected: 1
+(240521) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(241519) MACUS; INFO: Sync received: 0, expected: 1
+(241519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(242519) MACUS; INFO: Sync received: 0, expected: 1
+(242519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(243593) MACUS; INFO: Sync received: 0, expected: 1
+(243593) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(244589) MACUS; INFO: Sync received: 0, expected: 1
+(244589) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(245593) MACUS; INFO: Sync received: 0, expected: 1
+(245593) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(246589) MACUS; INFO: Sync received: 0, expected: 1
+(246589) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(247673) MACUS; INFO: Sync received: 0, expected: 1
+(247674) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(248669) MACUS; INFO: Sync received: 0, expected: 1
+(248669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(249669) MACUS; INFO: Sync received: 0, expected: 1
+(249669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(250669) MACUS; INFO: Sync received: 0, expected: 1
+(250669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(251669) MACUS; INFO: Sync received: 0, expected: 1
+(251669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(252669) MACUS; INFO: Sync received: 0, expected: 1
+(252669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(253669) MACUS; INFO: Sync received: 0, expected: 1
+(253669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(254669) MACUS; INFO: Sync received: 0, expected: 1
+(254669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(255669) MACUS; INFO: Sync received: 0, expected: 1
+(255669) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(256736) MACUS; INFO: Sync received: 0, expected: 1
+(256736) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(257803) MACUS; INFO: Sync received: 0, expected: 1
+(257804) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(258892) MACUS; INFO: Sync received: 0, expected: 1
+(258892) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(259995) MACUS; INFO: Sync received: 0, expected: 1
+(259996) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(261073) MACUS; INFO: Sync received: 0, expected: 1
+(261073) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(262069) MACUS; INFO: Sync received: 0, expected: 1
+(262069) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(263073) MACUS; INFO: Sync received: 0, expected: 1
+(263073) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(264069) MACUS; INFO: Sync received: 0, expected: 1
+(264069) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(265092) MACUS; INFO: Sync received: 0, expected: 1
+(265092) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(266225) MACUS; INFO: Sync received: 0, expected: 1
+(266225) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(267248) MACUS; INFO: Sync received: 0, expected: 1
+(267248) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(268266) MACUS; INFO: Sync received: 0, expected: 1
+(268266) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(269259) MACUS; INFO: Sync received: 0, expected: 1
+(269259) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(270329) MACUS; INFO: Sync received: 0, expected: 1
+(270330) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(271435) MACUS; INFO: Sync received: 0, expected: 1
+(271435) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(272442) MACUS; INFO: Sync received: 0, expected: 1
+(272442) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(273511) MACUS; INFO: Sync received: 0, expected: 1
+(273511) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(274545) MACUS; INFO: Sync received: 0, expected: 1
+(274546) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(275539) MACUS; INFO: Sync received: 0, expected: 1
+(275539) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(276539) MACUS; INFO: Sync received: 0, expected: 1
+(276539) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(277576) MACUS; INFO: Sync received: 0, expected: 1
+(277576) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(278569) MACUS; INFO: Sync received: 0, expected: 1
+(278569) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(279601) MACUS; INFO: Sync received: 0, expected: 1
+(279601) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(280686) MACUS; INFO: Sync received: 0, expected: 1
+(280686) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(281679) MACUS; INFO: Sync received: 0, expected: 1
+(281679) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(282845) MACUS; INFO: Sync received: 0, expected: 1
+(282845) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(283839) MACUS; INFO: Sync received: 0, expected: 1
+(283839) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(284934) MACUS; INFO: Sync received: 0, expected: 1
+(284934) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(285980) MACUS; INFO: Sync received: 0, expected: 1
+(285980) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(286979) MACUS; INFO: Sync received: 0, expected: 1
+(286979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(287979) MACUS; INFO: Sync received: 0, expected: 1
+(287979) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(289021) MACUS; INFO: Sync received: 0, expected: 1
+(289021) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(290019) MACUS; INFO: Sync received: 0, expected: 1
+(290019) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(291043) MACUS; INFO: Sync received: 0, expected: 1
+(291043) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(292039) MACUS; INFO: Sync received: 0, expected: 1
+(292039) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(293039) MACUS; INFO: Sync received: 0, expected: 1
+(293039) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(294076) MACUS; INFO: Sync received: 0, expected: 1
+(294076) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(295069) MACUS; INFO: Sync received: 0, expected: 1
+(295069) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(296113) MACUS; INFO: Sync received: 0, expected: 1
+(296113) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(297195) MACUS; INFO: Sync received: 0, expected: 1
+(297195) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(298411) MACUS; INFO: Sync received: 0, expected: 1
+(298411) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(299409) MACUS; INFO: Sync received: 0, expected: 1
+(299409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(300409) MACUS; INFO: Sync received: 0, expected: 1
+(300409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(301409) MACUS; INFO: Sync received: 0, expected: 1
+(301409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(302409) MACUS; INFO: Sync received: 0, expected: 1
+(302409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(303409) MACUS; INFO: Sync received: 0, expected: 1
+(303409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(304409) MACUS; INFO: Sync received: 0, expected: 1
+(304409) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(305414) MACUS; INFO: Sync received: 0, expected: 1
+(305414) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(306598) MACUS; INFO: Sync received: 0, expected: 1
+(306598) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(307662) MACUS; INFO: Sync received: 0, expected: 1
+(307662) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(308659) MACUS; INFO: Sync received: 0, expected: 1
+(308659) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(309659) MACUS; INFO: Sync received: 0, expected: 1
+(309659) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(310659) MACUS; INFO: Sync received: 0, expected: 1
+(310659) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(311725) MACUS; INFO: Sync received: 0, expected: 1
+(311725) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(312770) MACUS; INFO: Sync received: 0, expected: 1
+(312770) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(313836) MACUS; INFO: Sync received: 0, expected: 1
+(313836) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(314829) MACUS; INFO: Sync received: 0, expected: 1
+(314829) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(315829) MACUS; INFO: Sync received: 0, expected: 1
+(315829) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(316883) MACUS; INFO: Sync received: 0, expected: 1
+(316884) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(317879) MACUS; INFO: Sync received: 0, expected: 1
+(317879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(318879) MACUS; INFO: Sync received: 0, expected: 1
+(318879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(319879) MACUS; INFO: Sync received: 0, expected: 1
+(319879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(320879) MACUS; INFO: Sync received: 0, expected: 1
+(320879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(321879) MACUS; INFO: Sync received: 0, expected: 1
+(321879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(322879) MACUS; INFO: Sync received: 0, expected: 1
+(322879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(323879) MACUS; INFO: Sync received: 0, expected: 1
+(323879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(324879) MACUS; INFO: Sync received: 0, expected: 1
+(324880) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(325879) MACUS; INFO: Sync received: 0, expected: 1
+(325879) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(326900) MACUS; INFO: Sync received: 0, expected: 1
+(326900) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(327899) MACUS; INFO: Sync received: 0, expected: 1
+(327899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(328899) MACUS; INFO: Sync received: 0, expected: 1
+(328899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(329899) MACUS; INFO: Sync received: 0, expected: 1
+(329899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(330899) MACUS; INFO: Sync received: 0, expected: 1
+(330899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(331899) MACUS; INFO: Sync received: 0, expected: 1
+(331899) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(332973) MACUS; INFO: Sync received: 0, expected: 1
+(332973) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(333969) MACUS; INFO: Sync received: 0, expected: 1
+(333970) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(334969) MACUS; INFO: Sync received: 0, expected: 1
+(334969) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(336013) MACUS; INFO: Sync received: 0, expected: 1
+(336013) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(337101) MACUS; INFO: Sync received: 0, expected: 1
+(337101) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(338290) MACUS; INFO: Sync received: 0, expected: 1
+(338290) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(339289) MACUS; INFO: Sync received: 0, expected: 1
+(339289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(340289) MACUS; INFO: Sync received: 0, expected: 1
+(340289) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(341391) MACUS; INFO: Sync received: 0, expected: 1
+(341391) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(342467) MACUS; INFO: Sync received: 0, expected: 1
+(342467) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(343523) MACUS; INFO: Sync received: 0, expected: 1
+(343524) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(344519) MACUS; INFO: Sync received: 0, expected: 1
+(344519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(345725) MACUS; INFO: Sync received: 0, expected: 1
+(345725) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(346719) MACUS; INFO: Sync received: 0, expected: 1
+(346719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(347719) MACUS; INFO: Sync received: 0, expected: 1
+(347719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(348719) MACUS; INFO: Sync received: 0, expected: 1
+(348719) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(349803) MACUS; INFO: Sync received: 0, expected: 1
+(349803) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(350799) MACUS; INFO: Sync received: 0, expected: 1
+(350799) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(351910) MACUS; INFO: Sync received: 0, expected: 1
+(351910) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(352909) MACUS; INFO: Sync received: 0, expected: 1
+(352909) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(353909) MACUS; INFO: Sync received: 0, expected: 1
+(353909) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(354909) MACUS; INFO: Sync received: 0, expected: 1
+(354909) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(355909) MACUS; INFO: Sync received: 0, expected: 1
+(355909) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(356961) MACUS; INFO: Sync received: 0, expected: 1
+(356961) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(357959) MACUS; INFO: Sync received: 0, expected: 1
+(357959) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(359109) MACUS; INFO: Sync received: 0, expected: 1
+(359109) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(360109) MACUS; INFO: Sync received: 0, expected: 1
+(360109) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(361109) MACUS; INFO: Sync received: 0, expected: 1
+(361109) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(362116) MACUS; INFO: Sync received: 0, expected: 1
+(362116) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(363183) MACUS; INFO: Sync received: 0, expected: 1
+(363183) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(364179) MACUS; INFO: Sync received: 0, expected: 1
+(364179) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(365274) MACUS; INFO: Sync received: 0, expected: 1
+(365275) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(366269) MACUS; INFO: Sync received: 0, expected: 1
+(366269) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(367269) MACUS; INFO: Sync received: 0, expected: 1
+(367269) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(368273) MACUS; INFO: Sync received: 0, expected: 1
+(368273) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(369333) MACUS; INFO: Sync received: 0, expected: 1
+(369333) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(370329) MACUS; INFO: Sync received: 0, expected: 1
+(370329) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(371424) MACUS; INFO: Sync received: 0, expected: 1
+(371424) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(372522) MACUS; INFO: Sync received: 0, expected: 1
+(372522) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(373519) MACUS; INFO: Sync received: 0, expected: 1
+(373519) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(374622) MACUS; INFO: Sync received: 0, expected: 1
+(374622) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(375619) MACUS; INFO: Sync received: 0, expected: 1
+(375619) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(376630) MACUS; INFO: Sync received: 0, expected: 1
+(376630) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(377629) MACUS; INFO: Sync received: 0, expected: 1
+(377629) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(378681) MACUS; INFO: Sync received: 0, expected: 1
+(378681) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(379785) MACUS; INFO: Sync received: 0, expected: 1
+(379786) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(380851) MACUS; INFO: Sync received: 0, expected: 1
+(380851) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(381950) MACUS; INFO: Sync received: 0, expected: 1
+(381950) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(382949) MACUS; INFO: Sync received: 0, expected: 1
+(382949) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(383990) MACUS; INFO: Sync received: 0, expected: 1
+(383990) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(385089) MACUS; INFO: Sync received: 0, expected: 1
+(385090) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(386089) MACUS; INFO: Sync received: 0, expected: 1
+(386089) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(387095) MACUS; INFO: Sync received: 0, expected: 1
+(387095) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(388089) MACUS; INFO: Sync received: 0, expected: 1
+(388089) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(389251) MACUS; INFO: Sync received: 0, expected: 1
+(389251) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(390249) MACUS; INFO: Sync received: 0, expected: 1
+(390249) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(391249) MACUS; INFO: Sync received: 0, expected: 1
+(391249) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(392249) MACUS; INFO: Sync received: 0, expected: 1
+(392249) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(393249) MACUS; INFO: Sync received: 0, expected: 1
+(393249) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(394249) MACUS; INFO: Sync received: 0, expected: 1
+(394249) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
+(395251) MACUS; INFO: Sync received: 0, expected: 1
+(395252) SENSOR_CONTROLLER; ERROR: Failed to get MACUS data, reason: MACUS_STATUS_NO_SYNC_ERROR
