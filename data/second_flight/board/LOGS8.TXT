@@ -1,0 +1,48 @@
+(1000296) PROCEDURE_TASK; INFO: Procedure task started
+(1000334) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(1000334) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(1000429) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(1001164) CLI; ERROR: Terminal doesn't support escape sequences
+(1003578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1003578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1003737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1003737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1003818) MECHANICAL_CONTROLLER; ERROR: Failed to open solenoid 0
+(1004053) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1004053) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1004173) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1004173) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1004232) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1004232) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1004342) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1004343) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1004573) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1004573) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005072) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005072) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005181) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005181) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005282) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005282) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005707) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005707) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005762) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005763) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1005975) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1005975) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006292) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006292) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006343) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006344) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006402) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006402) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006570) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006570) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006623) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006623) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006684) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006684) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006743) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006743) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(1006804) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(1006804) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked

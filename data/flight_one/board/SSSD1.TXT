@@ -1,2 +1,0 @@
-Time;Load cell reading [N];Temperature [C];Pressure sensor 1 [bar];Pressure sensor 2 [bar];Distance [mm];
-

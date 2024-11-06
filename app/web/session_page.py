@@ -58,18 +58,19 @@ class SessionPage():
             'label': ['Velocity'] * len(procedure.time)
         })
 
-        # Prepare the data for the vertical line
-        pressurization_time = pd.DataFrame({
-            'x': [procedure.pressurization_time],
-            'y': [0],
-            'label': ['Pressurization']}
-        )
+        if procedure.pressurization_time:
+            # Prepare the data for the vertical line
+            pressurization_time = pd.DataFrame({
+                'x': [procedure.pressurization_time],
+                'y': [0],
+                'label': ['Pressurization']}
+            )
 
-        depressurization_time = pd.DataFrame({
-            'x': [procedure.depressurization_time],
-            'y': [0],
-            'label': ['Depressurization']}
-        )
+            depressurization_time = pd.DataFrame({
+                'x': [procedure.depressurization_time],
+                'y': [0],
+                'label': ['Depressurization']}
+            )
 
         # Base line chart
         line_chart = alt.Chart(velocity).mark_line().encode(
@@ -78,25 +79,34 @@ class SessionPage():
             color=alt.Color('label:N', legend=alt.Legend(title="Legend")),
             tooltip=['Time', 'Velocity']
         )
-        # Vertical line
-        pressurization_line = alt.Chart(pressurization_time).mark_rule(size=3).encode(
-            x='x',
-            color=alt.Color('label:N', legend=alt.Legend(title="Legend")),
-            tooltip=['label']
-        )
 
-        depressurization_line = alt.Chart(depressurization_time).mark_rule(size=3).encode(
-            x='x',
-            color=alt.Color('label:N', legend=alt.Legend(title="Legend")),
-            tooltip=['label']
-        )
+        if procedure.pressurization_time:
+            # Vertical line
+            pressurization_line = alt.Chart(pressurization_time).mark_rule(size=3).encode(
+                x='x',
+                color=alt.Color('label:N', legend=alt.Legend(title="Legend")),
+                tooltip=['label']
+            )
+
+            depressurization_line = alt.Chart(depressurization_time).mark_rule(size=3).encode(
+                x='x',
+                color=alt.Color('label:N', legend=alt.Legend(title="Legend")),
+                tooltip=['label']
+            )
 
         # Combine the line chart and vertical line chart
-        chart = (line_chart + pressurization_line + depressurization_line).properties(
-            width=600,
-            height=400,
-            title="Case profile"
-        )
+        if procedure.pressurization_time:
+            chart = (line_chart + pressurization_line + depressurization_line).properties(
+                width=600,
+                height=400,
+                title="Procedure profile"
+            )
+        else:
+            chart = (line_chart).properties(
+                width=600,
+                height=400,
+                title="Case profile"
+            )
         col.altair_chart(chart, use_container_width=True)
 
         

@@ -1,0 +1,17 @@
+(1270) PROCEDURE_TASK; INFO: Procedure task started
+(1344) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(1344) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(1444) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(2149) CLI; ERROR: Terminal doesn't support escape sequences
+(73879) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73879) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73939) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73939) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74112) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74112) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74229) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74229) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74287) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74287) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked

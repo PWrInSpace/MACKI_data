@@ -1,0 +1,2319 @@
+(1390) PROCEDURE_TASK; INFO: Procedure task started
+(1464) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(1464) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(1564) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(2249) CLI; ERROR: Terminal doesn't support escape sequences
+(4454) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(4454) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(4617) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(4617) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(4787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(4787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(4849) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(4849) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5017) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5017) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5077) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5077) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5197) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5197) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5364) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5364) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5419) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5419) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5591) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5591) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5648) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5648) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5708) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5708) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5767) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5767) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5828) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5828) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5887) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5887) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(5948) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(5948) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6007) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6007) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6067) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6067) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6128) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6128) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6188) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6188) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6251) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6251) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6367) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6367) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6428) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6428) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6488) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6488) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6549) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6549) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6722) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6722) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(6893) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(6893) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7060) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7060) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7178) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7238) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7298) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7360) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7360) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7419) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7419) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7477) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7477) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7537) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7537) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7657) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7719) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7719) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7779) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7779) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(7947) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(7947) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8008) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8008) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8068) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8068) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8128) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8128) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8187) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8187) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8249) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8249) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8307) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8307) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8470) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8470) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8761) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8761) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8817) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8817) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(8879) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(8879) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9046) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9046) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9169) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9169) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9690) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9690) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9750) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9750) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9868) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9931) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9931) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(9989) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(9989) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10049) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10050) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10341) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10341) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10457) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10457) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10745) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10745) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10858) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10858) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(10918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(10918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11087) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11087) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11255) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11255) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11421) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11421) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11537) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11537) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11599) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11599) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11657) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11717) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11717) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11898) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(11958) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(11958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12127) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12127) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12294) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12294) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12348) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12348) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12519) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12519) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12639) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12639) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12759) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12759) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(12878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(12878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13051) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13051) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13339) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13339) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13399) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13399) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13573) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13573) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13629) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13629) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13687) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13687) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13747) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13747) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13915) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13915) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(13977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(13977) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14039) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14158) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14158) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14219) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14219) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14279) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14279) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14397) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14397) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14457) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14457) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14622) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14622) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14677) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14677) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14849) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14849) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(14967) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(14967) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15027) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15027) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15088) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15089) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15148) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15209) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15267) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15267) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15327) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15327) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15562) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15562) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15725) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15725) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15777) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15777) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15837) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15837) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(15897) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(15897) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16070) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16070) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16128) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16128) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16301) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16301) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16358) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16358) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16478) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16651) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16651) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16820) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16820) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(16988) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(16988) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17445) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17445) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17509) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17677) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17677) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17799) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17799) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17917) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17917) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(17977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(17978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18145) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18145) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18197) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18197) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18372) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18372) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18427) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18427) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18488) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18488) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18607) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18607) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18775) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18775) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(18828) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(18828) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19001) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19001) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19119) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19119) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19179) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19179) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19351) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19351) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19514) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19514) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19568) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19741) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19741) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19917) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19917) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(19977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(19977) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20037) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20037) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20202) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20202) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20257) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20257) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20488) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20488) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20715) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20715) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20767) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20767) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20935) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20935) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(20997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(20998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21178) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21468) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21468) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21760) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21760) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(21991) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(21991) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22276) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22276) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22327) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22327) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22494) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22494) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22716) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22716) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22887) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22887) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(22948) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(22948) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23117) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23117) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23177) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23177) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23238) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23469) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23469) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23527) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23527) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23648) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23648) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23708) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23708) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23769) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23769) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23827) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23827) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(23887) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(23887) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24061) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24061) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24178) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24350) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24350) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24521) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24521) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24692) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24692) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(24979) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(24979) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25099) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25099) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25157) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25157) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25510) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25511) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25567) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25567) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25809) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25809) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(25977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(25977) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26039) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26210) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26210) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26269) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26389) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26389) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26447) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26447) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26617) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26617) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26678) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26678) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(26912) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(26912) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27082) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27082) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27141) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27141) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27198) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27198) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27373) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27373) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27430) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27430) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27602) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27602) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27777) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27777) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(27945) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(27945) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28009) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28009) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28182) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28182) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28238) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28299) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28467) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28467) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28589) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28589) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28647) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28647) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28707) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28707) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28768) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28768) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28827) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28827) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(28998) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(28998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29229) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29229) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29289) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29289) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29347) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29347) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29522) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29522) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29691) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29692) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29750) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29750) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29868) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(29928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(29928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30101) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30101) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30158) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30158) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30339) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30879) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30879) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30937) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30937) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(30997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(30997) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31118) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31118) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31286) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31286) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31564) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31564) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31723) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31723) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(31898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(31898) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32065) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32065) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32231) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32231) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32400) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32401) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32630) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32630) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32690) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32690) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32751) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32751) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32809) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32809) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32868) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32927) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32927) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(32987) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(32987) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33159) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33159) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33443) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33443) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33497) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33497) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33669) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33669) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33729) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33729) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33907) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33907) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(33967) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(33967) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34088) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34088) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34148) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34207) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34207) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34267) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34508) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34687) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34687) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34747) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34747) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34807) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34807) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(34981) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(34981) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35210) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35210) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35269) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35269) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35509) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35741) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35741) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(35978) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(35978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36037) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36037) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36158) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36158) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36279) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36279) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36459) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36795) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36795) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(36967) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(36967) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37199) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37257) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37257) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37317) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37317) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37377) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37377) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37542) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37542) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37826) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37827) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37887) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37887) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(37947) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(37947) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38009) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38009) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38182) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38182) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38351) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38351) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38409) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38409) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38468) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38468) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38641) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38641) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38811) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38812) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(38976) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(38976) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39197) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39197) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39317) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39317) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39377) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39377) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39542) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39542) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39657) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(39949) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(39949) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40008) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40008) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40177) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40177) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40404) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40404) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(40878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(40878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41050) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41050) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41289) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41290) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41349) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41349) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41411) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41411) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41468) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41468) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41641) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41641) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41757) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41757) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(41987) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(41987) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42047) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42047) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42107) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42107) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42276) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42276) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42450) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42450) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42508) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42508) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42687) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42687) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42853) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42853) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(42968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(42968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43132) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43132) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43187) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43187) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43247) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43247) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43309) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43309) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43368) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43368) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43429) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43429) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43487) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43487) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43548) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43611) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43611) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43669) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43669) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(43908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(43908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44081) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44081) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44199) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44372) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44373) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44541) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44541) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(44888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(44888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45054) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45055) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45107) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45107) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45167) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45167) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45334) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45334) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45388) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45448) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45448) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45613) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45613) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45777) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45777) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45899) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45899) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(45957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(45957) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46018) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46184) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46184) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46357) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46357) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46587) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46587) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46761) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46761) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46931) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46931) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(46987) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(46987) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47169) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47169) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47342) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47342) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47459) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47519) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47519) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47757) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47757) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(47992) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(47993) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48047) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48047) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48108) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48287) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48287) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48456) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48456) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48631) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48631) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48749) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48809) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48809) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48867) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48867) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(48927) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(48927) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49095) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49095) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49271) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49271) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49327) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49327) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49388) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49389) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49448) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49448) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49853) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49853) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(49969) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(49969) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50088) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50088) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50262) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50262) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50377) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50377) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50438) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50438) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50497) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50497) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(50948) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(50948) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51117) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51117) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51178) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51239) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51239) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51357) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51357) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51418) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51418) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51540) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51540) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51597) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51597) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51657) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51657) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51717) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51717) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51885) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51885) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51937) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51937) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(51997) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(51997) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52057) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52057) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52119) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52119) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52179) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52179) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52239) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52239) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52468) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52468) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52529) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52529) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52760) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52760) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52821) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52821) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52938) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52938) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(52998) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(52998) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53120) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53120) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53294) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53294) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53456) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53456) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53632) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53632) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(53981) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(53981) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54158) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54158) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54508) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54508) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54569) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54569) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54689) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54689) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(54979) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(54979) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55037) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55037) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55098) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55157) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55157) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55218) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55624) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55624) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55678) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55678) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(55969) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(55969) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56089) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56090) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56149) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56210) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56210) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56268) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56389) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56389) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56562) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56562) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56791) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56791) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56849) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56849) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(56969) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(56969) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57087) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57087) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57148) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57208) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57208) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57268) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57269) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57389) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57389) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57447) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57447) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57507) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57507) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57682) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57682) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57737) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57737) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57905) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57905) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(57969) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(57969) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58137) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58137) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58367) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58367) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58427) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58427) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58487) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58487) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58549) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58608) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58608) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58668) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58669) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58727) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58727) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58788) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58788) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58852) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58852) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58909) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58909) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(58969) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(58969) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59027) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59027) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59087) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59087) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59148) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59148) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59209) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59209) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59269) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59269) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59328) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59328) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59501) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59501) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59678) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59678) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59912) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59912) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(59968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(59968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60134) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60134) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60188) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60188) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60362) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60362) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60419) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60419) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60478) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60646) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60646) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60697) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60757) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60757) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60817) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60817) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(60982) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(60982) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61037) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61037) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61099) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61159) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61159) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61397) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61397) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(61919) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(61919) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62087) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62087) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62252) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62252) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62417) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62417) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62478) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62478) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62538) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62538) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62711) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62711) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62768) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62768) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62828) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62828) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(62949) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(62949) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63009) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63009) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63182) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63182) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63239) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63298) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63469) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63469) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63527) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63527) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63589) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63589) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63647) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63647) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63707) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63707) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63768) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63768) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63829) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63829) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(63889) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(63889) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64058) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64058) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64121) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64121) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64179) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64180) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64238) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64464) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64464) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64627) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64627) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64800) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64800) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64834) PROCEDURE_TASK; INFO: Procedure task received notification
+(64834) PROCEDURE_TASK; INFO: Procedure loaded successfully
+(64834) PROCEDURE_TASK; INFO: Setting motors in starting point before starting procedure
+(64858) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64859) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(64978) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(64978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65039) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65039) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65097) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65097) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65157) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65157) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65217) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65217) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65339) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65339) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65399) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65399) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65459) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65459) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65517) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65517) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65578) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65578) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65639) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65639) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65759) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65759) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65818) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65818) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65878) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65878) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(65941) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(65941) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66114) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66114) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66168) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66168) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66229) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66229) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66288) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66289) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66663) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66663) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66717) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66717) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66779) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66829) PROCEDURE_TASK; INFO: Motors set in starting point, starting procedure
+(66837) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66837) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66897) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(66897) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(66929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(67063) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67063) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67117) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67117) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67289) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67289) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67349) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67349) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67467) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67467) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67528) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67528) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67588) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67588) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67648) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67648) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67707) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67707) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67768) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67769) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67828) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67828) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(67929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(67949) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(67949) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68009) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68009) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68068) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68068) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68236) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(68237) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68237) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68269) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(68298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68299) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(68359) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68359) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68369) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(68417) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68417) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(68469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(68479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68480) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(68539) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68539) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68598) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68598) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68659) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68659) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68898) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68898) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(68939) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(68959) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(68959) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(68969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(68999) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(69020) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69020) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69029) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(69059) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(69080) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69080) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69089) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(69091) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(69119) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(69139) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69139) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(69179) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(69199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69200) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69209) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(69239) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(69371) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(69374) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69374) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69428) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69428) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69601) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69601) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69658) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69658) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69718) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69718) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69769) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(69780) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69780) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69809) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(69839) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69839) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69840) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(69869) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(69899) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69899) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69900) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(69929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(69959) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(69959) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(69960) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(69960) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(69989) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(70019) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70019) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70020) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 19999
+(70049) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(70080) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(70081) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70081) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70109) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 49999
+(70251) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(70252) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70252) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70367) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70368) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70429) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70429) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70488) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70488) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70549) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(70607) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70607) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70649) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(70667) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70668) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 50000
+(70832) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(70834) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70834) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70879) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(70888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 20000
+(70949) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(70949) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(70979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(71010) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71010) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71019) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(71069) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71069) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71130) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71130) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71188) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71188) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71247) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71247) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71308) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71308) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71368) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71368) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71429) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71429) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71487) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71487) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71519) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(71548) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71548) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71549) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -13333
+(71579) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -26666
+(71608) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71608) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71609) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -40000
+(71639) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -53333
+(71779) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -66666
+(71780) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71780) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71809) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -80000
+(71840) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71840) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71897) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71897) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(71958) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(71958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72018) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72018) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72077) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72077) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72198) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72198) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72259) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72259) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72378) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72378) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72439) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72439) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72498) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72498) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72559) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72559) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72617) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(72618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72625) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(72679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72799) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72799) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72858) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72858) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72918) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72918) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(72978) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(72978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73098) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73386) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73386) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73509) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73509) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73568) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73568) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73830) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73830) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(73887) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(73887) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74055) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74055) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74119) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74119) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74291) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74291) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74348) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74348) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74409) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74409) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74749) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74749) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74750) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(74751) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(74808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74868) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74868) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(74990) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(74990) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75048) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75109) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75109) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75167) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75167) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75227) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75227) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75287) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75287) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75347) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75347) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75410) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75410) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75469) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75469) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75529) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75529) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75703) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75703) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(75749) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(75872) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(75872) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76042) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76042) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76098) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76159) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76159) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76169) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(76209) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(76221) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76221) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76259) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(76391) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(76393) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76394) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76447) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(76449) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76449) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76489) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(76511) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76511) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(76676) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76676) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76728) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76728) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(76789) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(76789) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77048) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77049) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77107) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77107) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77167) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77167) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77227) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77227) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77287) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77288) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(77349) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77349) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77359) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(77389) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(77410) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77410) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(77449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(77469) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77469) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(77509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(77509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(77641) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(77642) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77642) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77669) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(77699) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77699) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77700) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(77729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(77869) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77869) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(77869) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(77900) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(77928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(77928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78092) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78093) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78262) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78262) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78299) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(78318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(78359) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(78378) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78378) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78389) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(78419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(78439) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78439) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(78479) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(78480) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(78500) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78500) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(78539) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 19999
+(78559) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78560) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78569) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(78599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(78619) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78619) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78629) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 49999
+(78659) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(78679) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78679) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78972) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(78972) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(78972) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(79140) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(79143) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79143) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79179) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 50000
+(79199) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79199) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79229) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(79258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79259) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79279) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(79319) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79319) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79329) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 20000
+(79379) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(79382) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79382) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(79439) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79439) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79498) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79498) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79620) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79620) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79792) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79792) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79956) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(79957) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(79957) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(79979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -13333
+(80017) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -26666
+(80019) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80019) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80044) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -40000
+(80077) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -53333
+(80078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80109) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -66666
+(80138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -80000
+(80198) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80198) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80257) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80257) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80319) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80319) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80378) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80378) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80438) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80438) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80611) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80611) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80667) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80667) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80727) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80727) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80787) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80787) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80847) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80847) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80908) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80908) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(80939) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(80940) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(80968) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(80968) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81028) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81028) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81201) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81201) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81259) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81259) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81377) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81377) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81547) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81547) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81609) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81609) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81778) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81778) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81838) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81838) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81900) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81900) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(81958) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(81958) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82019) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82019) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82239) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82240) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82298) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82298) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82359) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82359) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82420) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82420) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82479) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82479) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82653) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82653) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82708) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82709) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82769) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82769) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82780) CMD_PROCEDURE; INFO: Sending stop notification to procedure task
+(82827) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82827) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(82888) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(82888) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83058) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(83058) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(83060) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83060) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83119) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83119) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83178) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83178) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83238) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83238) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83297) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83297) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83357) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83358) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83526) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83526) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83638) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83698) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83870) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83871) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83928) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83928) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(83989) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(83989) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84049) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84049) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84059) PROCEDURE_TASK; INFO: Stop notification received, stopping procedure
+(84107) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84108) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84167) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84167) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84227) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84227) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84397) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84397) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84742) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84742) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84797) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84797) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(84857) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(84857) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85025) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85025) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85078) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85078) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85138) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85138) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85200) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85200) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85258) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85258) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85318) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85318) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85379) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85379) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85440) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85440) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85499) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85499) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85558) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85558) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85618) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85618) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85678) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85678) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85738) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85738) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85798) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85798) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85860) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85860) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85923) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85923) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(85978) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(85978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86098) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86161) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86161) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86218) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86219) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86278) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86278) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86399) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86399) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86458) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86458) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86519) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86519) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86637) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86637) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86856) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86856) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86917) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86917) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(86977) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(86978) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87038) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87038) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87098) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87098) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87160) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87160) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87219) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87219) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87337) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87337) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87398) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87398) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87457) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87457) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87518) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87518) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87577) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87577) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87638) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87638) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87697) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87698) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87758) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87758) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87819) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87819) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(87879) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(87879) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91277) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91277) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91338) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91338) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91567) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91567) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91628) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91628) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91688) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91688) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91748) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91748) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91808) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91808) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91869) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91869) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91929) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91929) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(91987) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(91987) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92049) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92049) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92107) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92107) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92167) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92167) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92228) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92228) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92289) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92289) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92349) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92349) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92407) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92407) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92467) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92467) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(92527) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(92527) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(93617) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(93617) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(244047) PROCEDURE_TASK; INFO: Procedure task received notification
+(244047) PROCEDURE_TASK; INFO: Procedure loaded successfully
+(244047) PROCEDURE_TASK; INFO: Setting motors in starting point before starting procedure
+(246039) PROCEDURE_TASK; INFO: Motors set in starting point, starting procedure
+(246139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(246141) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(246254) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(246254) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(247139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(247439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(247441) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(247559) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(247559) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(247560) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(247609) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(247659) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(247709) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(247759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(247799) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(248199) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(248229) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(248259) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(248289) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(248319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(248349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(248379) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(248379) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(248409) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(248439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(248469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(248499) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(248529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(248559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(248963) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(248989) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(249124) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(249149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(249179) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(249209) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(249337) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(249339) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(249370) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(249399) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 19999
+(249429) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(249566) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(249589) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 49999
+(249619) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(250005) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(250163) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(250199) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 50000
+(250249) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(250299) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(250349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 20000
+(250399) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(250439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(250939) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(250942) MECHANICAL_CONTROLLER; ERROR: Motor 0 is in overheat shutdown state
+(250946) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(250946) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(250969) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -13333
+(250999) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -26666
+(251029) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -40000
+(251059) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -53333
+(251089) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -66666
+(251119) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -80000
+(251919) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(251920) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(254074) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(254074) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(255111) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(255409) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(255449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(255500) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(255549) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(255706) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(255749) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(255878) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(256366) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(256389) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(256419) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(256449) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(256586) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(256699) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(256729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(256729) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(256759) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(256789) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(256819) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(256849) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(256879) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(256909) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(257350) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(257379) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(257409) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(257439) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(257469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(257499) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(257529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(257529) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(257559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(257589) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 19999
+(257619) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(257649) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(257679) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 49999
+(257710) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(258009) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(258109) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(258149) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 50000
+(258199) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(258249) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(258299) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 20000
+(258349) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(258389) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(258890) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(258919) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -13333
+(258949) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -26666
+(258979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -40000
+(259104) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -53333
+(259129) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -66666
+(259159) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -80000
+(259995) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(260000) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(262171) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(262172) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(263169) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(263469) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(263509) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(263559) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(263609) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(263659) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(263709) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(263749) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(264161) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 70000
+(264189) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 58333
+(264220) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 46666
+(264250) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 35000
+(264279) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 23333
+(264309) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 11666
+(264339) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(264340) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(264369) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(264399) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(264429) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(264459) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(264489) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(264519) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(264960) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -70000
+(264989) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -58333
+(265019) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -46666
+(265049) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -35000
+(265079) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -23333
+(265109) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -11666
+(265139) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(265140) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(265169) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(265199) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 19999
+(265229) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(265259) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(265290) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 49999
+(265319) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(265619) PROCEDURE_EXEC_HELPER; INFO: Opening valve
+(265719) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 60000
+(265838) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 50000
+(265879) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 40000
+(265929) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 30000
+(265979) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 20000
+(266029) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 10000
+(266069) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(266569) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0
+(266599) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -13333
+(266629) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -26666
+(266659) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -40000
+(266689) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -53333
+(266719) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -66666
+(266749) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to -80000
+(267588) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 0 and closing valve
+(267593) PROCEDURE_EXEC_HELPER; INFO: Procedure finished, setting motors in starting point
+(267595) CMD_PROCEDURE; INFO: Sending stop notification to procedure task
+(269735) PROCEDURE_EXEC_HELPER; INFO: Motors set in starting point
+(269735) PROCEDURE_EXEC_HELPER; INFO: Setting motor speed to 80000
+(270729) PROCEDURE_TASK; INFO: Stop notification received, stopping procedure

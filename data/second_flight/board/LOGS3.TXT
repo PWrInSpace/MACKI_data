@@ -1,0 +1,39 @@
+(237846) PROCEDURE_TASK; INFO: Procedure task started
+(237920) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(237920) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(238019) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(238734) CLI; ERROR: Terminal doesn't support escape sequences
+(248702) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(248702) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(248872) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(248873) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(248936) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(248936) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(248994) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(248994) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249055) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249055) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249113) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249113) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249173) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249173) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249340) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249340) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249393) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249393) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249454) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249454) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249514) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249514) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249573) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249573) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249635) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249635) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249693) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249694) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249862) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249862) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249924) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249924) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked
+(249984) MECHANICAL_CONTROLLER; INFO: Mechanical controller blocked
+(249984) MECHANICAL_CONTROLLER; INFO: Mechanical controller unblocked

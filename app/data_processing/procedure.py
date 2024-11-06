@@ -11,8 +11,10 @@ class Procedure:
 
         with open(procedure_file_path, "r") as file:
             self._procedure_name = file.readline().strip().split(": ")[-1]
-            self._pressurization_time = float(file.readline().strip().split(": ")[-1])
-            self._depressurization_time = float(file.readline().strip().split(": ")[-1])
+            pressurization_time = file.readline().strip().split(": ")[-1]
+            self._pressurization_time = None if pressurization_time == "None" else float(pressurization_time)
+            depressurization_time = file.readline().strip().split(": ")[-1]
+            self._depressurization_time = None if depressurization_time == "None" else float(depressurization_time)
 
         self._procedure_profile = pd.read_csv(procedure_file_path, delimiter=";", skiprows=4)
         self._procedure_profile.columns = [self.TIME_COLUMN, self.VELOCITY_COLUMN]

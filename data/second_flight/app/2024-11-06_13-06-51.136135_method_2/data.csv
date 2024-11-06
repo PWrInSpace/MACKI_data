@@ -1,0 +1,2 @@
+datetime;time;load_cell;board_temperature;pressure_macki;pressure_tank;distance;acc_x;acc_y;acc_z;motor1_speed;motor2_speed;procedure_time;mechanical_state;motor1_temperature;motor2_temperature
+2024-11-06_13-06-51.842285;298801;121.333252;22.5625;0.021667;3.0975;197.0;0.000977;0.025391;0.19043;-60000;-60000;159322;0;0;0

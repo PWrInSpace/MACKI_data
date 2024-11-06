@@ -1,0 +1,6 @@
+(528322) PROCEDURE_TASK; INFO: Procedure task started
+(528396) GPIO_WRAPPER; WARN: GPIO wrapper already initialized
+(528396) SENSOR_CONTROLLER; WARN: Failed to initialize GPIO wrapper, probably already initialized
+(528495) SENSOR_CONTROLLER; INFO: Sensor controller initialized
+(529210) CLI; ERROR: Terminal doesn't support escape sequences
+(531403) CMD_PROCEDURE; INFO: Sending stop notification to procedure task

@@ -1,0 +1,20 @@
+(502099) PROCEDURE_TASK; INFO: Procedure task started
+(502249) SENSOR_CONTROLLER; ERROR: Failed to initialize VL53L0X driver
+(502362) SENSOR_TASK; ERROR: Failed to initialize Sensor controller! Exiting task...
+(502927) CLI; ERROR: Terminal doesn't support escape sequences
+(525988) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(526138) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(526308) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(526458) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(527538) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(527707) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(527938) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(528018) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(528999) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(529108) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(529339) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(529428) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(536928) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(537168) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(537319) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
+(537398) SENSOR_CONTROLLER; ERROR: Failed to get last data from the ring buffer
