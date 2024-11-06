@@ -8,10 +8,10 @@ import altair as alt
 class SessionPage():
     def __init__(self, session: Session):
         self.session = session
-        
+
         page_title = self.session.session_name.capitalize().replace("_", " ")
         self.page = st.Page(self._page, title=page_title, url_path=page_title)
-  
+
     def _page(self):
         cases_names = [f"Case {i}" for i in range(self.session.number_of_cases)]
         session_elements = ["Session data"] + cases_names
@@ -29,7 +29,10 @@ class SessionPage():
         col1, col2 = st.columns(2)
         col1.metric("Total number of grasps", self.session.total_number_of_grasps)
         col2.metric("Cases in session", self.session.number_of_cases)
-        st.line_chart(self.session.session_data, x="time", y="acc_z", x_label="Time [ms]", y_label="Acceleration [g]")
+
+        # Convert datetime to minutes starting from minute 0
+        self.session.session_data['minutes'] = (self.session.session_data['datetime'] - self.session.session_data['datetime'].min()).dt.total_seconds() / 60
+        st.line_chart(self.session.session_data, x="datetime", y="acc_z", x_label="Time [minutes]", y_label="Acceleration [g]")
         zero_g_cases = [case for case in self.session._cases if case.zero_g_duration is not None]
 
     def _case_data(self, case_names):

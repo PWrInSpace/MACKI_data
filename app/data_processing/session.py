@@ -11,7 +11,9 @@ class Session:
         self._case_folders = [f for f in glob.glob(self._session_data_folder + "/*") if os.path.isdir(f)]
         self._session_data_file = os.path.join(self._session_data_folder, "data.csv")
         self._session_data = pd.read_csv(self._session_data_file, delimiter=";")
-
+        self._session_data["datetime"] = pd.to_datetime(
+            self._session_data["datetime"], format="%Y-%m-%d_%H-%M-%S.%f"
+        )
         self._total_number_of_grasps = self._session_data["procedure_time"].diff().lt(0).sum()
 
         self._cases = [Case(f) for f in self._case_folders]
