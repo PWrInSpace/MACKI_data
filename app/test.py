@@ -7,6 +7,7 @@ from data_processing.session import Session
 import altair as alt
 import numpy as np
 import cv2
+from web.session_page import SessionPage
 
 data_folder = "data"
 folders = glob.glob(data_folder + "/*")
@@ -138,14 +139,22 @@ def main():
     elif page == "Test Page":
         test()
 
-if __name__ == "__main__":
-    main()
-# st.sidebar.write("Hello")
-# st.sidebar.page_link(page)
+def load_sessions_pages():
+    data_folder = "data"
+    folders = glob.glob(data_folder + "/*")
+    sessions = [Session(f) for f in folders]
+    sessions_pages = [SessionPage(s).page for s in sessions]
 
-# df = pd.read_csv("my_data.csv", delimiter=";")
-# st.line_chart(df)
+    return sessions_pages
+
+if __name__ == "__main__":
+    st.set_page_config(layout="wide")
+    sessions_pages = load_sessions_pages()
+    print(sessions_pages)
+
+    pg = st.navigation(sessions_pages)
+    pg.run()
 
 # set danych z calego lotu -> sesja
-# dane z jednej paraboli -> case
+# dane z jednej paraboli -> cases
 # pojedynczy chwyt -> attempt

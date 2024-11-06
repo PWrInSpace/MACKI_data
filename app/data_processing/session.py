@@ -6,6 +6,7 @@ from data_processing.case import Case
 
 class Session:
     def __init__(self, session_data_folder: str):
+        self._session_name = session_data_folder.split(os.sep)[-1]
         self._session_data_folder = os.path.join(session_data_folder, "app")
         self._case_folders = [f for f in glob.glob(self._session_data_folder + "/*") if os.path.isdir(f)]
         self._session_data_file = os.path.join(self._session_data_folder, "data.csv")
@@ -18,6 +19,10 @@ class Session:
     @property
     def session_data_folder(self) -> str:
         return self._session_data_folder
+
+    @property
+    def session_name(self) -> str:
+        return self._session_name
 
     @property
     def case_folders(self) -> list[str]:
