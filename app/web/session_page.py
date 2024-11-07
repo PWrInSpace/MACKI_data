@@ -15,9 +15,10 @@ class SessionPage():
     def _page(self):
         cases_names = [f"Case {i}" for i in range(self.session.number_of_cases)]
         session_elements = ["Session data"] + cases_names
-        st.sidebar.selectbox(
+        st.sidebar.radio(
             "Session elements", session_elements, key="session_elements"
         )
+        st.sidebar.s
 
         if st.session_state.session_elements == "Session data":
             self._session_data()
@@ -33,7 +34,6 @@ class SessionPage():
         # Convert datetime to minutes starting from minute 0
         self.session.session_data['minutes'] = (self.session.session_data['datetime'] - self.session.session_data['datetime'].min()).dt.total_seconds() / 60
         st.line_chart(self.session.session_data, x="datetime", y="acc_z", x_label="Time [minutes]", y_label="Acceleration [g]")
-        zero_g_cases = [case for case in self.session._cases if case.zero_g_duration is not None]
 
     def _case_data(self, case_names):
         case = self.session._cases[int(case_names.split(" ")[1])]
@@ -52,6 +52,14 @@ class SessionPage():
         data_zero_g = case.case_data[case.case_data["acc_z"] < 0.08]
         col1.line_chart(data_zero_g, x="time", y="acc_z")
         col2.line_chart(data_zero_g, x="time", y="load_cell")
+
+        st.line_chart(data_zero_g, x="time", y=["pressure_tank", "pressure_macki"], x_label="Time [ms]", y_label="Pressure [bar]")
+
+        video_files = case.video_files
+        columns = st.columns(len(video_files))
+        if video_files:
+            for col1, video_file in zip(columns, video_files):
+                col1.video(video_file)
 
     def procedure_stplot(self, procedure, col):
         # Prepare the main data for the line chart

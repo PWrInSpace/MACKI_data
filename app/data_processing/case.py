@@ -15,9 +15,9 @@ class Case:
             self._case_data["datetime"], format="%Y-%m-%d_%H-%M-%S.%f"
         )
 
-        self._video_files = glob.glob(case_folder + "/*.mp4")
+        self._video_files = glob.glob(case_folder + "/*.webm")
 
-        self._case_procedure_name = self._case_folder[50:]
+        self._case_procedure_name = self._case_folder[49:]
 
         self._procedure = Procedure(self._case_folder)
 
@@ -56,3 +56,7 @@ class Case:
     @property
     def number_of_attempts(self):
         return self._number_of_attempts
+
+    @property
+    def video_files(self):
+        return self._video_files

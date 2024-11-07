@@ -17,6 +17,7 @@ class Session:
         self._total_number_of_grasps = self._session_data["procedure_time"].diff().lt(0).sum()
 
         self._cases = [Case(f) for f in self._case_folders]
+        self._cases = [case for case in self._cases if case.zero_g_duration is not None]
 
     @property
     def session_data_folder(self) -> str:
@@ -44,4 +45,4 @@ class Session:
 
     @property
     def number_of_cases(self):
-        return len(self._case_folders)
+        return len(self._cases)
