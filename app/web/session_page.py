@@ -56,10 +56,11 @@ class SessionPage():
         st.line_chart(data_zero_g, x="time", y=["pressure_tank", "pressure_macki"], x_label="Time [ms]", y_label="Pressure [bar]")
 
         video_files = case.video_files
-        columns = st.columns(len(video_files))
         if video_files:
-            for col1, video_file in zip(columns, video_files):
-                col1.video(video_file)
+            columns = st.columns(len(video_files))
+            if video_files:
+                for col1, video_file in zip(columns, video_files):
+                    col1.video(video_file)
 
     def procedure_stplot(self, procedure, col):
         # Prepare the main data for the line chart
